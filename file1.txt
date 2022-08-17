@@ -1,4 +1,8 @@
 123 456 789
+<<<<<<< HEAD
 olddate
+=======
+newdate
+>>>>>>> 0af4a3fc78c213bc768b460883e84283ab01eae5
 add new code
 commit line
